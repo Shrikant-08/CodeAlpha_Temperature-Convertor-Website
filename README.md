@@ -1,1 +1,2 @@
-# CodeAlpha_Temperature-Convertor-Website
+# Code Alpha
+This is a simple Temperature converter website by me.
